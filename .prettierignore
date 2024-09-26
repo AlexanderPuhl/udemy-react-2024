@@ -1,0 +1,15 @@
+node_modules
+tests_output
+wp-content/uploads/**
+wp-content/upgrade/**
+wp-content/cache/**
+wp-content/themes/bertolini/styles/css/**
+wp-content/themes/bertolini/js/axios.js
+wp-content/themes/bertolini/js/swiper.js
+sync/**
+
+wp-config.php
+package-lock.json
+*.lock
+*.sql
+*.log
