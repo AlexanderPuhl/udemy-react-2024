@@ -9,7 +9,6 @@ export default function EventsPage() {
 		return <p>{data.message}</p>;
 	}
 	const events = data.events;
-	console.log(events);
 
 	return (
 		<>
